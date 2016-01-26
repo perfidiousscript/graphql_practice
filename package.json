@@ -1,0 +1,14 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "Practice building a graph-ql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Sam Moss'",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.3.26"
+  }
+}
