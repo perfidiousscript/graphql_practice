@@ -9,6 +9,9 @@
   "author": "'Sam Moss'",
   "license": "ISC",
   "dependencies": {
-    "babel": "^6.3.26"
+    "babel": "^6.3.26",
+    "pg": "^4.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.18.0"
   }
 }
